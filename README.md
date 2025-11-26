@@ -1,4 +1,3 @@
-# Healthcare-Predictive-Analytics-Project
 # Early Prediction of Hypertension Risk
 
 ## Project Description
@@ -59,24 +58,3 @@ The solution involves:
 ### 4. Business Impact
 - Provides a preliminary tool for early hypertension screening.  
 - Assists doctors in decision-making, reduces workload, and supports early detection.  
-
----
-
-## Milestones & Deadlines
-| Milestone | Description | Deadline |
-|-----------|-------------|----------|
-| Data Collection & Understanding | Collecting data, understanding its structure, and performing initial exploration | 5/10 – 20/10 |
-| Preprocessing | Cleaning data, handling missing values, and transforming data into the proper format | 5/10 – 20/10 |
-| Visualization | Creating charts and graphs to understand relationships between variables | 20/10 – 1/11 |
-| Exploratory Data Analysis | Performing exploratory analysis to identify patterns, trends, and distributions | 20/10 – 1/11 |
-| Predictive Model Development & Optimization | Building predictive models and tuning them for best performance | 20/10 – 1/11 |
-| Modeling, MLOps & Monitoring | Implementing models in a production-like environment and setting up monitoring | 1/11 – 20/11 |
-| Deployment | Deploying the final model and ensuring it works in the target environment | 1/11 – 20/11 |
-| Final Documentation & Presentation | Preparing the final report and presenting results to stakeholders | 20/11 – 25/11 |
-
----
-
-## How to Run
-1. Clone this repository:  
-```bash
-git clone https://github.com/your-username/hypertension-prediction.git
