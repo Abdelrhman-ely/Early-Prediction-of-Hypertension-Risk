@@ -14,7 +14,7 @@ The solution involves:
 ## Group Members & Roles
 | Name | Role |
 |------|------|
-| Abdelrhman Elyamny Moawad | Team Leader, Model Design & Coordination |
+| Abdelrhman Elyamny Moawad | Team Leader, Model Training & Coordination |
 | Ali Alsabahi Ibrahim Metwaly | Data Preprocessing & Feature Engineering |
 | Habiba Mohamed Elsayed Elsharkawy | Model Training & Evaluation |
 | Ali Ahmed Abdalhamid Dandsh | Deployment |
